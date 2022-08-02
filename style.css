@@ -1,0 +1,29 @@
+body{
+    background-color: #000;
+    color: #fff;
+}
+
+.container{
+    min-height: 100vh;    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    color: orangered;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    margin-top: 70px;
+}
+
+.content{
+    padding: 20px;
+    font-size: 1.5em;
+    text-align: justify;
+}
+
+.btn{
+    margin-bottom: 40px;
+}
